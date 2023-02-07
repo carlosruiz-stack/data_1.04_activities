@@ -1,0 +1,10 @@
+
+# Online Python - IDE, Editor, Compiler, Interpreter
+def function_1(a,b):
+    c=a+b
+    return c
+
+func1 = lambda a,b: a+b
+print(func1(9,0))
+
+
